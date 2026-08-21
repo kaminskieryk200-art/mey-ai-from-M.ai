@@ -23,20 +23,14 @@ build/
 .idea/
 *.swp
 *.swo
+*.tmp
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Testing
+# Coverage
 .coverage
 coverage/
 htmlcov/
+
+# Testing
 .pytest_cache/
 .mypy_cache/
-
-# Distribution
-*.tar.gz
-*.zip
-*.whl
 ```
